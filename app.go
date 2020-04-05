@@ -9,7 +9,7 @@ import (
 	// Import godotenv for .env variables
 	"github.com/joho/godotenv"
 	// Import our app controllers
-	"github.com/mohamdfawaz/gin_todo/controllers"
+	"github.com/MohamdFawaz/gin_todo/controllers"
 )
 
 // init gets called before the main function
